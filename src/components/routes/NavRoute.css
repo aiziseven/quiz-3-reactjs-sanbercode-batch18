@@ -1,0 +1,29 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+}
+
+#logo {
+    float: left;
+}
+
+nav {
+    margin-right: 30px;
+}
+
+.ul-nav {
+    list-style-type: none;
+    float: right;
+}
+
+.ul-nav li {
+    float: left;
+    padding: 8px;
+}
+
+a:hover {
+    color: red;
+}
